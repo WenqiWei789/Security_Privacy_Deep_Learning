@@ -7,18 +7,16 @@ This is a paper list concerning topics on the trust and dependencies of deep lea
 
  - [Adversarial Deep Learning](#Adversarial Deep Learning)
  - [Privacy-preserving Deep Learning](#Privacy-preserving Deep Learning)
+ - [Machine Learning](#Machine Learning)
  
- 
- - [Software](#software)
- - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorials-and-talks)
+
 
 
 ## Adversarial Deep Learning
 
 ### Adversarial Attacks
 * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944) - Nicholas Carlini et al., 2018
-* [The Limitations of Deep Learning in Adversarial Settings ](https://ieeexplore.ieee.org/abstract/document/7467366/) - Nicolas Papernot  et al., 2016
+* [The Limitations of Deep Learning in Adversarial Settings](https://ieeexplore.ieee.org/abstract/document/7467366/) - Nicolas Papernot  et al., 2016
 * [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt et al., 2018
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow et al., 2015
 * [DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.html) - Seyed-Mohsen Moosavi-Dezfooli et al., 2016
@@ -30,8 +28,8 @@ This is a paper list concerning topics on the trust and dependencies of deep lea
 * [Adversarial Examples for Malware Detection](https://link.springer.com/chapter/10.1007/978-3-319-66399-9_4) - Kathrin Grosse et al., 2017
 * [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples (https://arxiv.org/abs/1605.07277) - Nicolas Papernot et al., 2016
 * [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini et al., 2017
- * [Boosting Adversarial Attacks with Momentum](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4098.pdf) CYinpeng Dong et al., 2018
-  * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) - Anish Athalye et al 2017
+* [Boosting Adversarial Attacks with Momentum](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4098.pdf) CYinpeng Dong et al., 2018
+* [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) - Anish Athalye et al., 2017
 
 ### Adversarial Mitigation & Defense
 
