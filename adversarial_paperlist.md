@@ -26,7 +26,7 @@ This is a paper list concerning topics on the trust and dependencies of deep lea
 * [Adversarial Attacks on Neural Network Policies](https://arxiv.org/abs/1702.02284) - Sandy Huang et al., 2017
 * [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009) - Nicolas Papernot et al., 2017
 * [Adversarial Examples for Malware Detection](https://link.springer.com/chapter/10.1007/978-3-319-66399-9_4) - Kathrin Grosse et al., 2017
-* [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples] (https://arxiv.org/abs/1605.07277) - Nicolas Papernot et al., 2016
+* [Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples](https://arxiv.org/abs/1605.07277) - Nicolas Papernot et al., 2016
 * [Towards Evaluating the Robustness of Neural Networks](https://nicholas.carlini.com/papers/2017_sp_nnrobustattacks.pdf) - Nicholas Carlini et al., (S&P 2017)
 * [Boosting Adversarial Attacks with Momentum](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4098.pdf) CYinpeng Dong et al., (CVPR 2018)
 * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) - Anish Athalye et al., 2017
