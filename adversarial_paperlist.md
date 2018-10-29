@@ -48,6 +48,7 @@ Nicholas Carlini et al., 2017
 * [Certifying Some Distributional Robustness with Principled Adversarial Training](https://arxiv.org/abs/1710.10571) - Aman Sinha et al., 2017
 * [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) Harini Kannan et al., 2018
 * [Efficient Defenses Against Adversarial Attacks](https://dl.acm.org/citation.cfm?id=3140449) - Valentina Zantedeschi et al., 2017
+* [Adversarial Examples in Deep Learning:  Characterization and Divergence]((https://arxiv.org/abs/1807.00051) - Wenqi Wei et al., 2018
 
 
 
