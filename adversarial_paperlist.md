@@ -13,7 +13,7 @@ This is a paper list concerning topics on the trust and dependencies of deep lea
 
 ### Adversarial Attacks
 * [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944) - Nicholas Carlini et al., 2018
-* [The Limitations of Deep Learning in Adversarial Settings](https://ieeexplore.ieee.org/abstract/document/7467366/) - Nicolas Papernot  et al., (Euro 2016)
+* [The Limitations of Deep Learning in Adversarial Settings](https://ieeexplore.ieee.org/abstract/document/7467366/) - Nicolas Papernot  et al., (Euro S&P 2016)
 * [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) - Kevin Eykholt et al., (CVPR 2018)
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572) - Ian J. Goodfellow et al., (ICLR 2015)
 * [DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.html) - Seyed-Mohsen Moosavi-Dezfooli et al., (CVPR 2016)
