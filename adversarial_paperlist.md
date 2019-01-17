@@ -5,12 +5,9 @@ This is a paper list concerning topics on the trust and dependencies of deep lea
 
 ## Table of Contents
 
- - [Adversarial Deep Learning](#Adversarial Deep Learning)
+ - [Adversarial Deep Learning](#Adversarial-Deep-Learning)
  - [Privacy-preserving Deep Learning](#Privacy-preserving Deep Learning)
  - [Machine Learning](#Machine Learning)
- 
-
-
 
 ## Adversarial Deep Learning
 
